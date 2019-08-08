@@ -1,0 +1,26 @@
+{
+  "name": "beerhub-web-app",
+  "version": "1.0.0",
+  "description": "The beerhub PWA",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next -p 5656",
+    "build": "next build",
+    "start": "next start -p 5656"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Root-ish/beerhub-web-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Root-ish/beerhub-web-app/issues"
+  },
+  "homepage": "https://github.com/Root-ish/beerhub-web-app#readme",
+  "dependencies": {
+    "next": "^9.0.3",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}
