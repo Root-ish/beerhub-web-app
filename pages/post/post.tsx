@@ -1,5 +1,5 @@
 import { withRouter } from 'next/router'
-import Layout from '../components/Layout'
+import Layout from '../../components/Layout'
 type PostProps = {
   router?: any
 }
